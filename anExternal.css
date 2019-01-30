@@ -1,0 +1,39 @@
+#Note{
+    text-align: center;
+}
+
+#Head{
+    text-align: center;
+}
+
+#MiddlePicture img{
+    float: left;
+    width:250px;
+    height:250px;
+    margin:5px;
+    border-radius: 50px;
+}
+
+#LeftPicture img{
+    float: left;
+    border-radius: 50px;
+    width:250px;
+    height:250px;
+    margin:5px;
+}
+
+#RightPicture img{
+    float: right;
+    border-radius: 50px;
+    width:250px;
+    height:250px;
+    margin:5px;
+}
+
+#MiddlePicture2 img{
+    float: right;
+    border-radius: 50px;
+    width:250px;
+    height:250px;
+    margin:5px;
+}
